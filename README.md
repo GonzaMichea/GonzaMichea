@@ -4,7 +4,7 @@
 
 <br>
 
-###Estudiante de Ingeniería Civil en Informática | Apasionado por la Inteligencia Artificial y la Arquitectura de Sistema
+### Estudiante de Ingeniería Civil en Informática | Apasionado por la Inteligencia Artificial y la Arquitectura de Sistema
 
 *(Universidad Técnica Federico Santa María - Sede Valparaíso)*
 
@@ -50,12 +50,12 @@ Estoy cursando los últimos años de Ingeniería Civil en Informática. Mi enfoq
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&count_private=true&title_color=007acc&text_color=c9d1d9&icon_color=ffdd54&bg_color=0d1117" alt="Estadísticas de TU_USUARIO_DE_GITHUB" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&title_color=007acc&text_color=c9d1d9&icon_color=ffdd54&bg_color=0d1117" alt="Lenguajes principales de TU_USUARIO_DE_GITHUB" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=GonzaMichea&show_icons=true&theme=radical&count_private=true&title_color=007acc&text_color=c9d1d9&icon_color=ffdd54&bg_color=0d1117" alt="Estadísticas de GonzaMichea" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaMichea&layout=compact&theme=radical&title_color=007acc&text_color=c9d1d9&icon_color=ffdd54&bg_color=0d1117" alt="Lenguajes principales de GonzaMichea" width="48%" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_DE_GITHUB&theme=radical&no-frame=true" alt="Trofeos de TU_USUARIO_DE_GITHUB" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=GonzaMichea&theme=radical&no-frame=true&margin-w=15" alt="Trofeos de GonzaMichea" width="100%" />
 
 </div>
 
@@ -74,5 +74,5 @@ Estoy abierto a colaborar en proyectos de código abierto o escuchar oportunidad
 
 <div align="center">
 <br>
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer&theme=dark" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=dark" width="100%" />
 </div>
