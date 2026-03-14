@@ -4,9 +4,9 @@
 
 <br>
 
-### ✨ Futuro Ingeniero Civil en Informática | Apasionado por la Inteligencia Artificial y la Arquitectura de Sistemas ✨
+###Estudiante de Ingeniería Civil en Informática | Apasionado por la Inteligencia Artificial y la Arquitectura de Sistema
 
-*(Estudiante de la Universidad Técnica Federico Santa María - Sede Valparaíso)*
+*(Universidad Técnica Federico Santa María - Sede Valparaíso)*
 
 [![](https://img.shields.io/badge/Estado-Estudiante-blue?style=for-the-badge&logo=mortarboard)](https://www.usm.cl/)
 [![](https://img.shieldsio/badge/Ubicación-Valparaíso,%20Chile-red?style=for-the-badge&logo=mapmarker)](https://www.google.com/maps/place/Valparaíso)
@@ -43,14 +43,6 @@ Estoy cursando los últimos años de Ingeniería Civil en Informática. Mi enfoq
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
-
----
-
-## 🎯 Enfoque Actual y Proyectos
-
-* 🧠 **Inteligencia Artificial:** Mi proyecto destacado **`melanoma-xai-cnn`** utiliza Redes Neuronales Convocionales con técnicas de explicabilidad (XAI) para la detección temprana del melanoma. *(Este proyecto está anclado abajo👇)*
-* 🏗️ **Infraestructura:** Estoy configurando un Home Server modular para desplegar y probar microservicios personales.
-* 📖 **Aprendiendo:** Actualmente profundizando en orquestación con Kubernetes y patrones de arquitectura hexagonal.
 
 ---
 
