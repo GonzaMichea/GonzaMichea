@@ -1,69 +1,86 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" height="200" width="100%" style="object-fit: cover; border-radius: 10px;"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Hola!%20Soy%20Gonzalo%20👋&fontSize=70&animation=fadeIn&fontAlignY=38&theme=dark" width="100%" />
+
 <br>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=GonzaMichea&color=blue" alt="watching_count" />
- </p>
+### ✨ Futuro Ingeniero Civil en Informática | Apasionado por la Inteligencia Artificial y la Arquitectura de Sistemas ✨
 
- <p align="center">
-  <img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-brightgreen" />
-  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-success" />
-</p>
-<hr>
+*(Estudiante de la Universidad Técnica Federico Santa María - Sede Valparaíso)*
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Gonzalo Michea </h1>
-<h3 align="center">Estudiante de Ingeniería Civil en Informática | Desarrollador </h3>
+[![](https://img.shields.io/badge/Estado-Estudiante-blue?style=for-the-badge&logo=mortarboard)](https://www.usm.cl/)
+[![](https://img.shieldsio/badge/Ubicación-Valparaíso,%20Chile-red?style=for-the-badge&logo=mapmarker)](https://www.google.com/maps/place/Valparaíso)
+[![](https://img.shields.io/badge/Perfil-Profesional-green?style=for-the-badge&logo=linkedin)](TU_LINK_DE_LINKEDIN_AQUI)
 
-<p align="center">
-<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="40" /></a>  
-<a href="mailto:tu-correo@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <em>
-    ¡Hola! Soy un apasionado por la tecnología y el desarrollo de software. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <br>
-    Siempre busco aprender algo nuevo, mejorar mis habilidades y construir proyectos que resuelvan problemas reales. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
-  </em> 
-  <br><br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"El buen código es su mejor documentación."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+Estoy cursando los últimos años de Ingeniería Civil en Informática. Mi enfoque actual está en el desarrollo de soluciones de backend eficientes y la implementación de modelos de Machine Learning aplicados. Me encanta aprender nuevas tecnologías y construir proyectos que resuelvan problemas reales.
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mí...***
+---
 
-✔ 💻 Actualmente estudiando **Ingeniería Civil en Informática**.<br>
+</div>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Mis Herramientas y Lenguajes...***
-<p align="left">
-  <code><img height="40" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="40" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
-</p>
-<br>
-<hr>
- 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Mis Estadísticas en GitHub</b></i>
-</p>
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GonzaMichea&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Lenguajes" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GonzaMichea&show_icons=true&locale=en&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
+## 💻 Mis Tecnologías
+
+<div align="center">
+
+**Lenguajes de Programación:**
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/sql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
 <br>
 
-<hr>
+**Frameworks & Herramientas:**
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Trofeos de Perfil</p><br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GonzaMichea&theme=tokyonight&no-bg=true&margin-w=15" />
-</p>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+---
+
+## 🎯 Enfoque Actual y Proyectos
+
+* 🧠 **Inteligencia Artificial:** Mi proyecto destacado **`melanoma-xai-cnn`** utiliza Redes Neuronales Convocionales con técnicas de explicabilidad (XAI) para la detección temprana del melanoma. *(Este proyecto está anclado abajo👇)*
+* 🏗️ **Infraestructura:** Estoy configurando un Home Server modular para desplegar y probar microservicios personales.
+* 📖 **Aprendiendo:** Actualmente profundizando en orquestación con Kubernetes y patrones de arquitectura hexagonal.
+
+---
+
+## 📊 Mi Actividad en GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&count_private=true&title_color=007acc&text_color=c9d1d9&icon_color=ffdd54&bg_color=0d1117" alt="Estadísticas de TU_USUARIO_DE_GITHUB" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&title_color=007acc&text_color=c9d1d9&icon_color=ffdd54&bg_color=0d1117" alt="Lenguajes principales de TU_USUARIO_DE_GITHUB" width="48%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_DE_GITHUB&theme=radical&no-frame=true" alt="Trofeos de TU_USUARIO_DE_GITHUB" width="100%" />
+
+</div>
+
+---
+
+## 🌱 Hablemos
+
+Estoy abierto a colaborar en proyectos de código abierto o escuchar oportunidades laborales.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-michea-aa2281334/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalo.michea@usm.cl)
+
+</div>
+
+<div align="center">
+<br>
+<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer&theme=dark" width="100%" />
+</div>
