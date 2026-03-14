@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hola!%20Soy%20Gonzalo%20👋&fontSize=70&animation=fadeIn&fontAlignY=38&theme=dark" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=>_%20G.Michea%20&fontSize=60&animation=fadeIn&fontAlignY=38&theme=dark" width="100%" />
 
 <br>
-
 ### Estudiante de Ingeniería Civil en Informática | Apasionado por la Inteligencia Artificial y la Arquitectura de Sistema
 
 *(Universidad Técnica Federico Santa María - Sede Valparaíso)*
@@ -55,15 +54,15 @@ Estoy cursando los últimos años de Ingeniería Civil en Informática. Mi enfoq
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GonzaMichea&theme=radical&no-frame=true&margin-w=15" alt="Trofeos de GonzaMichea" width="100%" />
+<a href="https://github.com/GonzaMichea">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GonzaMichea&theme=radical&hide_border=true" alt="Racha de contribuciones de GonzaMichea" width="100%" />
+</a>
 
 </div>
 
 ---
 
 ## 🌱 Hablemos
-
-Estoy abierto a colaborar en proyectos de código abierto o escuchar oportunidades laborales.
 
 <div align="center">
 
