@@ -91,24 +91,6 @@ Actualmente desarrollo proyectos y trabajos académicos relacionados con:
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GonzaMichea&show_icons=true&theme=radical&count_private=true&title_color=007acc&text_color=c9d1d9&icon_color=ffdd54&bg_color=0d1117" alt="Estadísticas de GitHub" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaMichea&layout=compact&theme=radical&title_color=007acc&text_color=c9d1d9&icon_color=ffdd54&bg_color=0d1117" alt="Lenguajes más utilizados" width="48%" />
-
-<br><br>
-
-<a href="https://github.com/GonzaMichea">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GonzaMichea&theme=radical&hide_border=true" alt="Racha de contribuciones" width="100%" />
-</a>
-
-</div>
-
----
-
 ##  Contacto
 
 <div align="center">
