@@ -62,7 +62,7 @@ Actualmente estoy fortaleciendo mis conocimientos en **Deep Learning, Computer V
 
 ---
 
-## 🔬 Áreas de interés
+##  Áreas de interés
 
 -  **Inteligencia Artificial:** Machine Learning, Deep Learning y Explainable AI.
 -  **Data Science:** análisis de datos, modelamiento y visualización.
