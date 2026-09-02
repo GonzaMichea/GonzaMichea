@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1220" height="707" alt="image" src="https://github.com/user-attachments/assets/84a14287-ece6-41e4-9125-dbef5238d51a" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=>_%20G.Michea%20&fontSize=60&animation=fadeIn&fontAlignY=38&theme=dark" width="100%" />
 
@@ -16,7 +16,7 @@
 
 <br>
 
-Soy **Ingeniero Civil en Informática** y actualmente curso el **Magíster en Ciencias de la Informática** en la Universidad Técnica Federico Santa María, con interés en **Inteligencia Artificial, Data Science y Machine Learning**.
+Actualmente me encuentro cursando **Ingeniería Civil en Informática** y **Magíster en Ciencias de la Informática** en la Universidad Técnica Federico Santa María, con interés en **Inteligencia Artificial, Data Science y Machine Learning**.
 
 Me interesa desarrollar soluciones que combinen fundamentos de ingeniería de software con técnicas de inteligencia artificial, especialmente en problemas relacionados con **procesamiento de datos, imágenes y aprendizaje automático**.
 
