@@ -6,7 +6,7 @@
 
 # Gonzalo Michea
 
-### Magíster en Ciencias de la Informática | Inteligencia Artificial · Data Science · Machine Learning
+### Ingeniería Civil Informática | Magíster en Ciencias de la Informática
 
 **Universidad Técnica Federico Santa María · Valparaíso, Chile**
 
