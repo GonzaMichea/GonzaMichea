@@ -1,4 +1,4 @@
-<img width="1220" height="707" alt="image" src="https://github.com/user-attachments/assets/84a14287-ece6-41e4-9125-dbef5238d51a" /><div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=>_%20G.Michea%20&fontSize=60&animation=fadeIn&fontAlignY=38&theme=dark" width="100%" />
 
@@ -6,21 +6,23 @@
 
 # Gonzalo Michea
 
-### Ingeniería Civil Informática | Magíster en Ciencias de la Informática
+### Ingeniería Civil en Informática | Magíster en Ciencias de la Informática
 
 **Universidad Técnica Federico Santa María · Valparaíso, Chile**
 
-[![Estado](https://img.shields.io/badge/Estado-Mag%C3%ADster-blue?style=for-the-badge\&logo=mortarboard)](https://www.usm.cl/)
-[![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Valpara%C3%ADso%2C%20Chile-red?style=for-the-badge\&logo=googlemaps)](https://www.google.com/maps/place/Valpara%C3%ADso)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-green?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gonzalo-michea-aa2281334/)
+[![Estado](https://img.shields.io/badge/Estado-Mag%C3%ADster-blue?style=for-the-badge&logo=mortarboard)](https://www.usm.cl/)
+[![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Valpara%C3%ADso%2C%20Chile-red?style=for-the-badge&logo=googlemaps)](https://www.google.com/maps/place/Valpara%C3%ADso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-green?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gonzalo-michea-aa2281334/)
 
 <br>
 
-Actualmente me encuentro cursando **Ingeniería Civil en Informática** y **Magíster en Ciencias de la Informática** en la Universidad Técnica Federico Santa María, con interés en **Inteligencia Artificial, Data Science y Machine Learning**.
+ Actualmente curso **Ingeniería Civil en Informática** y **Magíster en Ciencias de la Informática** en la Universidad Técnica Federico Santa María, con interés en **Inteligencia Artificial, Data Science y Machine Learning**.
 
 Me interesa desarrollar soluciones que combinen fundamentos de ingeniería de software con técnicas de inteligencia artificial, especialmente en problemas relacionados con **procesamiento de datos, imágenes y aprendizaje automático**.
 
 Actualmente estoy fortaleciendo mis conocimientos en **Deep Learning, Computer Vision y procesamiento de señales e imágenes**, además de explorar aplicaciones de modelos de IA en problemas reales.
+
+</div>
 
 ---
 
@@ -60,43 +62,36 @@ Actualmente estoy fortaleciendo mis conocimientos en **Deep Learning, Computer V
 
 ---
 
-## Áreas de Interés
+## 🔬 Áreas de interés
 
-<div align="center">
-
-|              Área              | Intereses                                                      |
-| :----------------------------: | :------------------------------------------------------------- |
-|  **Artificial Intelligence** | Machine Learning · Deep Learning · Explainable AI              |
-|        **Data Science**      | Análisis de datos · Modelamiento · Visualización               |
-|      **Computer Vision**    | Procesamiento de imágenes · Demosaicing · Visión computacional |
-|      **Neural Networks**     | Redes neuronales · PyTorch · Modelos de aprendizaje profundo   |
-|    **Software Engineering**  | Backend · Arquitectura de sistemas · Desarrollo de software    |
-
-</div>
+-  **Inteligencia Artificial:** Machine Learning, Deep Learning y Explainable AI.
+-  **Data Science:** análisis de datos, modelamiento y visualización.
+-  **Computer Vision:** procesamiento y análisis de imágenes digitales.
+-  **Redes Neuronales:** implementación y experimentación con modelos de aprendizaje profundo.
+-  **Ingeniería de Software:** desarrollo de software y arquitectura de sistemas.
 
 ---
 
-##  Proyectos y Trabajo Académico
+## Proyectos
 
-Actualmente desarrollo proyectos y trabajos académicos relacionados con:
+Algunos de mis trabajos y proyectos académicos están relacionados con:
 
-* **Machine Learning y Deep Learning** utilizando Python y PyTorch.
-* **Procesamiento de señales e imágenes**, incluyendo reconstrucción y demosaicing de imágenes.
-* **Computer Vision** y análisis de imágenes digitales.
-* **Inteligencia Artificial Explicable (XAI)**.
-* **Análisis y modelamiento de datos**.
-* Desarrollo de soluciones de software utilizando buenas prácticas de ingeniería.
-
-> Algunos repositorios corresponden a trabajos académicos realizados durante mi formación de pregrado y magíster.
+- Machine Learning y Deep Learning utilizando **Python y PyTorch**.
+- Procesamiento de señales e imágenes.
+- Reconstrucción y **demosaicing** de imágenes digitales.
+- Computer Vision.
+- Inteligencia Artificial Explicable (XAI).
+- Análisis y modelamiento de datos.
+- Desarrollo de soluciones de software.
 
 ---
 
-##  Contacto
+## Contacto
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gonzalo-michea-aa2281334/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gonzalo.michea@usm.cl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-michea-aa2281334/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzalo.michea@usm.cl)
 
 </div>
 
